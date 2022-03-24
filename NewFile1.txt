@@ -1,0 +1,1 @@
+On the WIN10 machine, open File2.txt in the local repository and notice the changes are not there yet. A pull will need to be performed to get the remote changes to the local machin
